@@ -1,4 +1,5 @@
 This is our simple webpage.
+
 using apache webswever - jenkins server(centos01) and simple server(centos02) using linux commands
 
 Project Overview:
@@ -7,3 +8,5 @@ If we want to make changes to the webpage, instead of manually making changes on
 Jenkins will bring the updated code from GitHub and deploy it to Server B using the Apache Web Server.
 
 GitHub → Jenkins (server A)→ Server B → Apache Web Server→ Webpage
+
+now the project is ready
